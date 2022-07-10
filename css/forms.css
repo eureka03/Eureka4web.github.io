@@ -5,7 +5,7 @@ html {
   box-sizing: inherit;
 }
 body {
-	background-image: url(/img/aliens2.jpg);
+	background-image: url(../img/aliens2.jpg);
 	margin: 0;
 	padding: 0;
 }
