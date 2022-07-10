@@ -1,0 +1,84 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+	background-image: url(/img/aliens2.jpg);
+	margin: 0;
+	padding: 0;
+}
+h1{
+	
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#date{
+	margin:10px 0;
+}
+#qty{
+	margin:10px 0;
+}
+
+button{
+	display:block;
+	margin:60px auto;
+	width:90px;
+	height:40px;
+	background-color:crimson;
+}
+#abtype{
+	margin:10px 0;
+}
+.field1{
+	background-color:crimson;
+}
+.field2{
+	background-color: darkmagenta;
+	margin-bottom: 20px;;
+}
+#name{
+	margin:10px 0;
+	width:360px;
+}
+
+#email{
+	margin:10px 0;
+	width: 380px;;
+}
+#phone{
+	margin:10px 0;
+	width:360px;
+	
+}
+
+.wrapper {
+	width: 80%;
+	margin: 0 auto;
+	padding: 1em;
+	display: flex;
+	flex-flow: row nowrap;
+}
+p {
+	margin-bottom: 0;
+	margin-top: 2rem;
+}
+section {
+	flex-basis: 57%;
+	margin-right: 10%;
+}
+aside {
+	flex-basis: 33%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
